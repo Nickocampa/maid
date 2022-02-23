@@ -7,7 +7,7 @@ package Perro;
 
 /**
  *
- * @author nico
+ * @author nico RACING NO EXISTIS
  */
 public class Perro {
     private String nombre;
