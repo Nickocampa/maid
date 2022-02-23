@@ -30,6 +30,7 @@ public class Main {
         s1.perro();
         s1.retorno();
         s1.listadepersonas();     
+        System.out.println("hola");
     }
     
 }
